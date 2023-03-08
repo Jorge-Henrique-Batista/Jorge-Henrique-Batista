@@ -1,6 +1,4 @@
 ### Olá! Eu sou o Jorge Batista ✌
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
 - 📫 Email para contato: jorge.henriquebaptista@hotmail.com
 - 😄 Pronouns: ele/dele
